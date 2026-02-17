@@ -1,6 +1,6 @@
 # Card Battle Game ⚔️🃏
 
-A turn-based card battle game written in C++, built as part of an Object-Oriented Programming course at Ben-Gurion University.
+A turn-based card battle game written in C++, built as part of an Advanced programming course at Ben-Gurion University.
 
 ## Overview
 
@@ -72,4 +72,4 @@ make
 
 ## Course
 
-Object-Oriented Programming — Ben-Gurion University of the Negev
+Advanced programming — Ben-Gurion University of the Negev
