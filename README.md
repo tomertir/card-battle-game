@@ -17,14 +17,14 @@ Players choose a character class and battle against an enemy using a deck of car
 ## Characters
 
 **Players:**
-- 🗡️ **Fighter** — melee warrior
-- 🔮 **Sorcerer** — magic caster
-- 🏹 **Ranger** — ranged attacker
+-  **Fighter** — melee warrior
+-  **Sorcerer** — magic caster
+-  **Ranger** — ranged attacker
 
 **Enemies:**
-- 👹 **Troll**
-- 👻 **Ghost**
-- 🐉 **Dragon**
+- **Troll**
+-  **Ghost**
+-  **Dragon**
 
 Each player-enemy combination has unique combat logic, resulting in 9 different battle interactions.
 
