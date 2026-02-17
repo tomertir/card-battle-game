@@ -1,4 +1,4 @@
-# Card Battle Game ⚔️🃏
+# Card Battle Game 
 
 A turn-based card battle game written in C++, built as part of an Advanced programming course at Ben-Gurion University.
 
